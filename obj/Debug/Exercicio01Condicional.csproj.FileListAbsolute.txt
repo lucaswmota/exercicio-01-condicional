@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\Exercicio01Condicional\bin\Debug\Exercicio01Condicional.exe.config
+C:\Users\lucas\source\repos\Exercicio01Condicional\bin\Debug\Exercicio01Condicional.exe
+C:\Users\lucas\source\repos\Exercicio01Condicional\bin\Debug\Exercicio01Condicional.pdb
+C:\Users\lucas\source\repos\Exercicio01Condicional\obj\Debug\Exercicio01Condicional.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Exercicio01Condicional\obj\Debug\Exercicio01Condicional.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Exercicio01Condicional\obj\Debug\Exercicio01Condicional.exe
+C:\Users\lucas\source\repos\Exercicio01Condicional\obj\Debug\Exercicio01Condicional.pdb
